@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sympy as sym
 
-STUDENT_NUMBER = 4624113
+STUDENT_NUMBER = 0000000
 
 a = int(str(STUDENT_NUMBER)[-1])%6+1
 b = int(str(STUDENT_NUMBER)[-2])%5+1
